@@ -9,12 +9,11 @@
 - [2. 👉 Description](#2--description)
 - [3. 🚦 Project Status](#3--project-status)
 - [4. ⚙️ Features](#4-️-features)
-- [5. 🤩 Demonstration](#5--demonstration)
-- [6. ☑️ Prerequisites](#6-️-prerequisites)
-- [7. 🚀 Technologies](#7--technologies)
-- [8. 🙏 Thanks](#8--thanks)
-- [9. ✌️ Author](#9-️-author)
-- [10. 📄 License](#10--license)
+- [5. ☑️ Prerequisites](#5-️-prerequisites)
+- [6. 🚀 Technologies](#6--technologies)
+- [7. 🙏 Thanks](#7--thanks)
+- [8. ✌️ Author](#8-️-author)
+- [9. 📄 License](#9--license)
 
 ## 2. 👉 Description
 
@@ -34,11 +33,7 @@ The project was developed as part of the Ignite Accelerator Program for Devs, wi
 - User cannot add an empty comment.
 - User can delete any comment by clicking on the Trash icon.
 
-## 5. 🤩 Demonstration
-
-You can test this project by clicking on this [link](https://chimerical-arithmetic-2b3687.netlify.app/).
-
-## 6. ☑️ Prerequisites
+## 5. ☑️ Prerequisites
 
 Before you clone this project, you must have the following tools installed in your machine:
 - [git](https://github.com/)
@@ -47,15 +42,16 @@ Before you clone this project, you must have the following tools installed in yo
 - Some code editor such as [Visual Studio Code](https://code.visualstudio.com/)
 
 
-## 7. 🚀 Technologies
+## 6. 🚀 Technologies
 
 - HTML • CSS • JavaScript
 - [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 
-## 8. 🙏 Thanks
+## 7. 🙏 Thanks
 I'd like to thank for all the Rocketseat Team, specially to [Maik Brito](https://github.com/maykbrito) who always inspired me, through his videos, to consistently continue in pursuit of my dreams, and [Diego Fernandes](https://github.com/diego3g) for the excellent lessons and inspiring talks at every NLW Week I have attended.
 
-## 9. ✌️ Author
+## 8. ✌️ Author
 
 <img
     src="https://www.github.com/IgorKlein.png" 
@@ -74,7 +70,7 @@ I hope you enjoy it.
     <img src="https://img.shields.io/badge/-igor.klein.sl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor.klein.sl@gmail.com">
 </a>
 
-## 10. 📄 License
+## 9. 📄 License
 
 This project was developed under the **MIT License**. See the [LICENSE](#) file for details.
 
